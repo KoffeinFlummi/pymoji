@@ -17,7 +17,7 @@ python3 setup.py install
 
 ### Usage
 
-Converting emoji-cheat-sheet aliases to their escape sequences or unicode entities - and vice versa:
+Converting emoji-cheat-sheet aliases to their escape sequences or unicode entities and vice versa:
 
 ```python
 >>> import pymoji
