@@ -1,7 +1,7 @@
 pymoji
 ======
 
-[![Build Status](http://img.shields.io/travis/KoffeinFlummi/pymoji.svg)](https://travis-ci.org/KoffeinFlummi/pymoji) [![License](http://img.shields.io/badge/license-MIT-red.svg)](https://github.com/KoffeinFlummi/pymoji/blob/master/LICENSE)
+[![Build Status](http://img.shields.io/travis/KoffeinFlummi/pymoji.svg?style=flat)](https://travis-ci.org/KoffeinFlummi/pymoji) [![License](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/KoffeinFlummi/pymoji/blob/master/LICENSE)
 
 Convert emoji-cheat-sheet names to unicode and more!
 
