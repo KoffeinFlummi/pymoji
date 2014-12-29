@@ -21,14 +21,14 @@ Converting emoji-cheat-sheet aliases to their escape sequences or unicode entiti
 
 ```python
 >>> import pymoji
->>> pymoji.Emoji(":boom:").char
-'Ὂ'
->>> pymoji.Emoji(":boom:").escape
-'1F4A5'
->>> pymoji.Emoji("1F4A5").alias
-':boom:'
->>> pymoji.Emoji("1F4A5").aliases
-[':boom:', ':collision:']
+>>> pymoji.Emoji(":star:").char
+'⭐'
+>>> pymoji.Emoji(":star:").escape
+'2b50'
+>>> pymoji.Emoji("2b50").alias
+':star:'
+>>> pymoji.Emoji("2b50").aliases
+[':star:']
 ```
 
 Replacing emoji-cheat-sheet aliases in text and vice versa:
