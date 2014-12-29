@@ -5,7 +5,7 @@ pymoji
 
 Convert emoji-cheat-sheet names to unicode and more!
 
-All credit for the original idea goes to **[@stephencelis](https://gi
+Inspiration: [GitHub's gemoji](https://github.com/github/gemoji)
 
 
 ### Setup
