@@ -3,7 +3,7 @@ pymoji
 
 [![Build Status](http://img.shields.io/travis/KoffeinFlummi/pymoji.svg?style=flat)](https://travis-ci.org/KoffeinFlummi/pymoji) [![License](http://img.shields.io/badge/license-MIT-red.svg?style=flat)](https://github.com/KoffeinFlummi/pymoji/blob/master/LICENSE)
 
-Convert emoji-cheat-sheet names to unicode and more!
+Convert [emoji-cheat-sheet](http://www.emoji-cheat-sheet.com/) names to unicode and more!
 
 Inspiration: [GitHub's gemoji](https://github.com/github/gemoji)
 
